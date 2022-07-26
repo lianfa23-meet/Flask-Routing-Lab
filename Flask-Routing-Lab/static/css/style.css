@@ -1,0 +1,10 @@
+.product-img{
+	width: 200px;
+	height:  200px;
+	border-radius: 50%;
+	margin-right: 10%;
+}
+
+.pd-l{
+	padding-left: 5px;
+}
